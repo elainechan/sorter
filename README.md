@@ -45,7 +45,6 @@ curl -X 'POST' \
 ```
 
 ## Test
-
 ```bash
 pytest tests.py -v
 ```
