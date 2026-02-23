@@ -1,5 +1,8 @@
 # Package Sorter
 
+## Hosted Codespace
+<a href="https://fantastic-meme-9gx9v576r63x96r-8000.app.github.dev/docs" target="_blank">Hosted Codespace App</a>
+
 Sorts packages into **STANDARD**, **SPECIAL**, or **REJECTED** based on dimensions and mass.
 
 ## Rules
